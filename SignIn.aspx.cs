@@ -20,7 +20,7 @@ namespace aspxForum
                 string sqlCheckAdmin = ("SELECT admin FROM userDB WHERE username = '" + login + "'");
                 string sqlSelectPass = ("SELECT password FROM userDB WHERE username = '" + login + "'");
                 String username = csTOsql.Query(fileName, sqlSelectLogin);
-                //bool admin = bool.Parse(csTOsql.Query(fileName, sqlCheckAdmin));
+                bool admin = csTOsql.BoolQuery(fileName, sqlCheckAdmin);
                 if (String.IsNullOrEmpty(username))
                 {
                     errmsg.Text = "The username was not found in the database";
@@ -34,7 +34,7 @@ namespace aspxForum
                     }
                     else
                     {
-                        //Session["isAdmin"] = admin;
+                        Session["isAdmin"] = admin;
                         Session["usr"] = username;
                         Server.Transfer("default.aspx");
                     }

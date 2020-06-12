@@ -45,7 +45,7 @@ public class csTOsql
     }
 
 
-    public static bool IsExist(string fileName, string sql)
+    public static bool BoolQuery(string fileName, string sql)
     {
        
         SqlConnection conn = ConnectToDb(fileName);

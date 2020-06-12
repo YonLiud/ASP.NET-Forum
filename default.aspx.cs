@@ -11,7 +11,7 @@ namespace aspxForum.Assets
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            //bool admin = bool.Parse((String)(Session["isAdmin"]));
+            bool admin = (bool)(Session["isAdmin"]);
             string username = string.Empty;
             username = (String)(Session["usr"]);
 

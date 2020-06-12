@@ -1,0 +1,2 @@
+﻿DBCC CHECKIDENT ('[userDB]', RESEED, 0);
+GO

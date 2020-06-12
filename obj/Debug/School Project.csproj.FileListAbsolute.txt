@@ -1,0 +1,233 @@
+C:\Users\user\Documents\School Project\bin\School Project.dll.config
+C:\Users\user\Documents\School Project\bin\School Project.dll
+C:\Users\user\Documents\School Project\bin\School Project.pdb
+C:\Users\user\Documents\School Project\bin\roslyn\csc.exe
+C:\Users\user\Documents\School Project\bin\roslyn\csc.exe.config
+C:\Users\user\Documents\School Project\bin\roslyn\csc.rsp
+C:\Users\user\Documents\School Project\bin\roslyn\csi.exe
+C:\Users\user\Documents\School Project\bin\roslyn\csi.exe.config
+C:\Users\user\Documents\School Project\bin\roslyn\csi.rsp
+C:\Users\user\Documents\School Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Documents\School Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Documents\School Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user\Documents\School Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Documents\School Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\Documents\School Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Documents\School Project\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Documents\School Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user\Documents\School Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user\Documents\School Project\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user\Documents\School Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Documents\School Project\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\user\Documents\School Project\bin\roslyn\System.AppContext.dll
+C:\Users\user\Documents\School Project\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Documents\School Project\bin\roslyn\System.Console.dll
+C:\Users\user\Documents\School Project\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Documents\School Project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user\Documents\School Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user\Documents\School Project\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\user\Documents\School Project\bin\roslyn\System.IO.Compression.dll
+C:\Users\user\Documents\School Project\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\user\Documents\School Project\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user\Documents\School Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user\Documents\School Project\bin\roslyn\System.Net.Http.dll
+C:\Users\user\Documents\School Project\bin\roslyn\System.Net.Sockets.dll
+C:\Users\user\Documents\School Project\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Documents\School Project\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\user\Documents\School Project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user\Documents\School Project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user\Documents\School Project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user\Documents\School Project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user\Documents\School Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user\Documents\School Project\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Documents\School Project\bin\roslyn\System.ValueTuple.dll
+C:\Users\user\Documents\School Project\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user\Documents\School Project\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user\Documents\School Project\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user\Documents\School Project\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user\Documents\School Project\bin\roslyn\vbc.exe
+C:\Users\user\Documents\School Project\bin\roslyn\vbc.exe.config
+C:\Users\user\Documents\School Project\bin\roslyn\vbc.rsp
+C:\Users\user\Documents\School Project\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Documents\School Project\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Documents\School Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Documents\School Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Documents\School Project\obj\Debug\School Project.csprojAssemblyReference.cache
+C:\Users\user\Documents\School Project\obj\Debug\School Project.csproj.CopyComplete
+C:\Users\user\Documents\School Project\obj\Debug\School Project.dll
+C:\Users\user\Documents\School Project\obj\Debug\School Project.pdb
+C:\Users\user\Documents\Computer Science\Login and Signup\bin\School Project.dll.config
+C:\Users\user\Documents\Computer Science\Login and Signup\bin\School Project.dll
+C:\Users\user\Documents\Computer Science\Login and Signup\bin\School Project.pdb
+C:\Users\user\Documents\Computer Science\Login and Signup\bin\roslyn\csc.exe
+C:\Users\user\Documents\Computer Science\Login and Signup\bin\roslyn\csc.exe.config
+C:\Users\user\Documents\Computer Science\Login and Signup\bin\roslyn\csc.rsp
+C:\Users\user\Documents\Computer Science\Login and Signup\bin\roslyn\csi.exe
+C:\Users\user\Documents\Computer Science\Login and Signup\bin\roslyn\csi.exe.config
+C:\Users\user\Documents\Computer Science\Login and Signup\bin\roslyn\csi.rsp
+C:\Users\user\Documents\Computer Science\Login and Signup\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Documents\Computer Science\Login and Signup\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Documents\Computer Science\Login and Signup\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user\Documents\Computer Science\Login and Signup\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Documents\Computer Science\Login and Signup\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\Documents\Computer Science\Login and Signup\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Documents\Computer Science\Login and Signup\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Documents\Computer Science\Login and Signup\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user\Documents\Computer Science\Login and Signup\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user\Documents\Computer Science\Login and Signup\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user\Documents\Computer Science\Login and Signup\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Documents\Computer Science\Login and Signup\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\user\Documents\Computer Science\Login and Signup\bin\roslyn\System.AppContext.dll
+C:\Users\user\Documents\Computer Science\Login and Signup\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Documents\Computer Science\Login and Signup\bin\roslyn\System.Console.dll
+C:\Users\user\Documents\Computer Science\Login and Signup\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Documents\Computer Science\Login and Signup\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user\Documents\Computer Science\Login and Signup\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user\Documents\Computer Science\Login and Signup\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\user\Documents\Computer Science\Login and Signup\bin\roslyn\System.IO.Compression.dll
+C:\Users\user\Documents\Computer Science\Login and Signup\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\user\Documents\Computer Science\Login and Signup\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user\Documents\Computer Science\Login and Signup\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user\Documents\Computer Science\Login and Signup\bin\roslyn\System.Net.Http.dll
+C:\Users\user\Documents\Computer Science\Login and Signup\bin\roslyn\System.Net.Sockets.dll
+C:\Users\user\Documents\Computer Science\Login and Signup\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Documents\Computer Science\Login and Signup\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\user\Documents\Computer Science\Login and Signup\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user\Documents\Computer Science\Login and Signup\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user\Documents\Computer Science\Login and Signup\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user\Documents\Computer Science\Login and Signup\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user\Documents\Computer Science\Login and Signup\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user\Documents\Computer Science\Login and Signup\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Documents\Computer Science\Login and Signup\bin\roslyn\System.ValueTuple.dll
+C:\Users\user\Documents\Computer Science\Login and Signup\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user\Documents\Computer Science\Login and Signup\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user\Documents\Computer Science\Login and Signup\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user\Documents\Computer Science\Login and Signup\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user\Documents\Computer Science\Login and Signup\bin\roslyn\vbc.exe
+C:\Users\user\Documents\Computer Science\Login and Signup\bin\roslyn\vbc.exe.config
+C:\Users\user\Documents\Computer Science\Login and Signup\bin\roslyn\vbc.rsp
+C:\Users\user\Documents\Computer Science\Login and Signup\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Documents\Computer Science\Login and Signup\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Documents\Computer Science\Login and Signup\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Documents\Computer Science\Login and Signup\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Documents\Computer Science\Login and Signup\obj\Debug\School Project.csprojAssemblyReference.cache
+C:\Users\user\Documents\Computer Science\Login and Signup\obj\Debug\School Project.csproj.CopyComplete
+C:\Users\user\Documents\Computer Science\Login and Signup\obj\Debug\School Project.dll
+C:\Users\user\Documents\Computer Science\Login and Signup\obj\Debug\School Project.pdb
+C:\Users\Yon\Documents\Computer Science\Login and Signup\bin\School Project.dll.config
+C:\Users\Yon\Documents\Computer Science\Login and Signup\bin\School Project.dll
+C:\Users\Yon\Documents\Computer Science\Login and Signup\bin\School Project.pdb
+C:\Users\Yon\Documents\Computer Science\Login and Signup\bin\roslyn\csc.exe
+C:\Users\Yon\Documents\Computer Science\Login and Signup\bin\roslyn\csc.exe.config
+C:\Users\Yon\Documents\Computer Science\Login and Signup\bin\roslyn\csc.rsp
+C:\Users\Yon\Documents\Computer Science\Login and Signup\bin\roslyn\csi.exe
+C:\Users\Yon\Documents\Computer Science\Login and Signup\bin\roslyn\csi.exe.config
+C:\Users\Yon\Documents\Computer Science\Login and Signup\bin\roslyn\csi.rsp
+C:\Users\Yon\Documents\Computer Science\Login and Signup\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Yon\Documents\Computer Science\Login and Signup\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Yon\Documents\Computer Science\Login and Signup\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Yon\Documents\Computer Science\Login and Signup\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Yon\Documents\Computer Science\Login and Signup\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Yon\Documents\Computer Science\Login and Signup\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Yon\Documents\Computer Science\Login and Signup\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Yon\Documents\Computer Science\Login and Signup\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Yon\Documents\Computer Science\Login and Signup\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Yon\Documents\Computer Science\Login and Signup\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Yon\Documents\Computer Science\Login and Signup\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Yon\Documents\Computer Science\Login and Signup\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Yon\Documents\Computer Science\Login and Signup\bin\roslyn\System.AppContext.dll
+C:\Users\Yon\Documents\Computer Science\Login and Signup\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Yon\Documents\Computer Science\Login and Signup\bin\roslyn\System.Console.dll
+C:\Users\Yon\Documents\Computer Science\Login and Signup\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Yon\Documents\Computer Science\Login and Signup\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Yon\Documents\Computer Science\Login and Signup\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Yon\Documents\Computer Science\Login and Signup\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Yon\Documents\Computer Science\Login and Signup\bin\roslyn\System.IO.Compression.dll
+C:\Users\Yon\Documents\Computer Science\Login and Signup\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Yon\Documents\Computer Science\Login and Signup\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Yon\Documents\Computer Science\Login and Signup\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Yon\Documents\Computer Science\Login and Signup\bin\roslyn\System.Net.Http.dll
+C:\Users\Yon\Documents\Computer Science\Login and Signup\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Yon\Documents\Computer Science\Login and Signup\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Yon\Documents\Computer Science\Login and Signup\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Yon\Documents\Computer Science\Login and Signup\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Yon\Documents\Computer Science\Login and Signup\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Yon\Documents\Computer Science\Login and Signup\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Yon\Documents\Computer Science\Login and Signup\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Yon\Documents\Computer Science\Login and Signup\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Yon\Documents\Computer Science\Login and Signup\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Yon\Documents\Computer Science\Login and Signup\bin\roslyn\System.ValueTuple.dll
+C:\Users\Yon\Documents\Computer Science\Login and Signup\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Yon\Documents\Computer Science\Login and Signup\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Yon\Documents\Computer Science\Login and Signup\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Yon\Documents\Computer Science\Login and Signup\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Yon\Documents\Computer Science\Login and Signup\bin\roslyn\vbc.exe
+C:\Users\Yon\Documents\Computer Science\Login and Signup\bin\roslyn\vbc.exe.config
+C:\Users\Yon\Documents\Computer Science\Login and Signup\bin\roslyn\vbc.rsp
+C:\Users\Yon\Documents\Computer Science\Login and Signup\bin\roslyn\VBCSCompiler.exe
+C:\Users\Yon\Documents\Computer Science\Login and Signup\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Yon\Documents\Computer Science\Login and Signup\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Yon\Documents\Computer Science\Login and Signup\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Yon\Documents\Computer Science\Login and Signup\obj\Debug\School Project.csprojAssemblyReference.cache
+C:\Users\Yon\Documents\Computer Science\Login and Signup\obj\Debug\School Project.csproj.CopyComplete
+C:\Users\Yon\Documents\Computer Science\Login and Signup\obj\Debug\School Project.dll
+C:\Users\Yon\Documents\Computer Science\Login and Signup\obj\Debug\School Project.pdb
+\\HAUM-PORTBALE\Users\Yon\Documents\Computer Science\Login and Signup\bin\School Project.dll.config
+\\HAUM-PORTBALE\Users\Yon\Documents\Computer Science\Login and Signup\bin\School Project.dll
+\\HAUM-PORTBALE\Users\Yon\Documents\Computer Science\Login and Signup\bin\School Project.pdb
+\\HAUM-PORTBALE\Users\Yon\Documents\Computer Science\Login and Signup\bin\roslyn\csc.exe
+\\HAUM-PORTBALE\Users\Yon\Documents\Computer Science\Login and Signup\bin\roslyn\csc.exe.config
+\\HAUM-PORTBALE\Users\Yon\Documents\Computer Science\Login and Signup\bin\roslyn\csc.rsp
+\\HAUM-PORTBALE\Users\Yon\Documents\Computer Science\Login and Signup\bin\roslyn\csi.exe
+\\HAUM-PORTBALE\Users\Yon\Documents\Computer Science\Login and Signup\bin\roslyn\csi.exe.config
+\\HAUM-PORTBALE\Users\Yon\Documents\Computer Science\Login and Signup\bin\roslyn\csi.rsp
+\\HAUM-PORTBALE\Users\Yon\Documents\Computer Science\Login and Signup\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\HAUM-PORTBALE\Users\Yon\Documents\Computer Science\Login and Signup\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\HAUM-PORTBALE\Users\Yon\Documents\Computer Science\Login and Signup\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+\\HAUM-PORTBALE\Users\Yon\Documents\Computer Science\Login and Signup\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\HAUM-PORTBALE\Users\Yon\Documents\Computer Science\Login and Signup\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+\\HAUM-PORTBALE\Users\Yon\Documents\Computer Science\Login and Signup\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\HAUM-PORTBALE\Users\Yon\Documents\Computer Science\Login and Signup\bin\roslyn\Microsoft.CSharp.Core.targets
+\\HAUM-PORTBALE\Users\Yon\Documents\Computer Science\Login and Signup\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+\\HAUM-PORTBALE\Users\Yon\Documents\Computer Science\Login and Signup\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+\\HAUM-PORTBALE\Users\Yon\Documents\Computer Science\Login and Signup\bin\roslyn\Microsoft.Managed.Core.targets
+\\HAUM-PORTBALE\Users\Yon\Documents\Computer Science\Login and Signup\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\HAUM-PORTBALE\Users\Yon\Documents\Computer Science\Login and Signup\bin\roslyn\Microsoft.Win32.Primitives.dll
+\\HAUM-PORTBALE\Users\Yon\Documents\Computer Science\Login and Signup\bin\roslyn\System.AppContext.dll
+\\HAUM-PORTBALE\Users\Yon\Documents\Computer Science\Login and Signup\bin\roslyn\System.Collections.Immutable.dll
+\\HAUM-PORTBALE\Users\Yon\Documents\Computer Science\Login and Signup\bin\roslyn\System.Console.dll
+\\HAUM-PORTBALE\Users\Yon\Documents\Computer Science\Login and Signup\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+\\HAUM-PORTBALE\Users\Yon\Documents\Computer Science\Login and Signup\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+\\HAUM-PORTBALE\Users\Yon\Documents\Computer Science\Login and Signup\bin\roslyn\System.Diagnostics.StackTrace.dll
+\\HAUM-PORTBALE\Users\Yon\Documents\Computer Science\Login and Signup\bin\roslyn\System.Globalization.Calendars.dll
+\\HAUM-PORTBALE\Users\Yon\Documents\Computer Science\Login and Signup\bin\roslyn\System.IO.Compression.dll
+\\HAUM-PORTBALE\Users\Yon\Documents\Computer Science\Login and Signup\bin\roslyn\System.IO.Compression.ZipFile.dll
+\\HAUM-PORTBALE\Users\Yon\Documents\Computer Science\Login and Signup\bin\roslyn\System.IO.FileSystem.dll
+\\HAUM-PORTBALE\Users\Yon\Documents\Computer Science\Login and Signup\bin\roslyn\System.IO.FileSystem.Primitives.dll
+\\HAUM-PORTBALE\Users\Yon\Documents\Computer Science\Login and Signup\bin\roslyn\System.Net.Http.dll
+\\HAUM-PORTBALE\Users\Yon\Documents\Computer Science\Login and Signup\bin\roslyn\System.Net.Sockets.dll
+\\HAUM-PORTBALE\Users\Yon\Documents\Computer Science\Login and Signup\bin\roslyn\System.Reflection.Metadata.dll
+\\HAUM-PORTBALE\Users\Yon\Documents\Computer Science\Login and Signup\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+\\HAUM-PORTBALE\Users\Yon\Documents\Computer Science\Login and Signup\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+\\HAUM-PORTBALE\Users\Yon\Documents\Computer Science\Login and Signup\bin\roslyn\System.Security.Cryptography.Encoding.dll
+\\HAUM-PORTBALE\Users\Yon\Documents\Computer Science\Login and Signup\bin\roslyn\System.Security.Cryptography.Primitives.dll
+\\HAUM-PORTBALE\Users\Yon\Documents\Computer Science\Login and Signup\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+\\HAUM-PORTBALE\Users\Yon\Documents\Computer Science\Login and Signup\bin\roslyn\System.Text.Encoding.CodePages.dll
+\\HAUM-PORTBALE\Users\Yon\Documents\Computer Science\Login and Signup\bin\roslyn\System.Threading.Tasks.Extensions.dll
+\\HAUM-PORTBALE\Users\Yon\Documents\Computer Science\Login and Signup\bin\roslyn\System.ValueTuple.dll
+\\HAUM-PORTBALE\Users\Yon\Documents\Computer Science\Login and Signup\bin\roslyn\System.Xml.ReaderWriter.dll
+\\HAUM-PORTBALE\Users\Yon\Documents\Computer Science\Login and Signup\bin\roslyn\System.Xml.XmlDocument.dll
+\\HAUM-PORTBALE\Users\Yon\Documents\Computer Science\Login and Signup\bin\roslyn\System.Xml.XPath.dll
+\\HAUM-PORTBALE\Users\Yon\Documents\Computer Science\Login and Signup\bin\roslyn\System.Xml.XPath.XDocument.dll
+\\HAUM-PORTBALE\Users\Yon\Documents\Computer Science\Login and Signup\bin\roslyn\vbc.exe
+\\HAUM-PORTBALE\Users\Yon\Documents\Computer Science\Login and Signup\bin\roslyn\vbc.exe.config
+\\HAUM-PORTBALE\Users\Yon\Documents\Computer Science\Login and Signup\bin\roslyn\vbc.rsp
+\\HAUM-PORTBALE\Users\Yon\Documents\Computer Science\Login and Signup\bin\roslyn\VBCSCompiler.exe
+\\HAUM-PORTBALE\Users\Yon\Documents\Computer Science\Login and Signup\bin\roslyn\VBCSCompiler.exe.config
+\\HAUM-PORTBALE\Users\Yon\Documents\Computer Science\Login and Signup\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\HAUM-PORTBALE\Users\Yon\Documents\Computer Science\Login and Signup\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\HAUM-PORTBALE\Users\Yon\Documents\Computer Science\Login and Signup\obj\Debug\School Project.csprojAssemblyReference.cache
+\\HAUM-PORTBALE\Users\Yon\Documents\Computer Science\Login and Signup\obj\Debug\School Project.csproj.CopyComplete
+\\HAUM-PORTBALE\Users\Yon\Documents\Computer Science\Login and Signup\obj\Debug\School Project.dll
+\\HAUM-PORTBALE\Users\Yon\Documents\Computer Science\Login and Signup\obj\Debug\School Project.pdb
+\\HAUM-PORTBALE\Users\Yon\Documents\Computer Science\Login and Signup\obj\Debug\School Project.csproj.CoreCompileInputs.cache

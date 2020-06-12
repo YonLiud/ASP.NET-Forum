@@ -6,7 +6,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="description" content="An open market and forum for everyone! for free!" />
-    <title>Landing Page &ndash; Layout Examples &ndash; Pure</title>    
+    <title>alTab Developments Market</title>    
     <link rel="stylesheet" href="https://unpkg.com/purecss@1.0.1/build/pure-min.css" integrity="sha384-" crossorigin="anonymous" />
         <link rel="stylesheet" href="https://unpkg.com/purecss@1.0.1/build/grids-responsive-old-ie-min.css" />
         <link rel="stylesheet" href="https://unpkg.com/purecss@1.0.1/build/grids-responsive-min.css" />
@@ -19,7 +19,7 @@
 <div class="header">
     <div class="home-menu pure-menu pure-menu-horizontal pure-menu-fixed">
         <a class="pure-menu-heading">Yon Liud's Website</a>
-        <a class="pure-menu-heading">Welcome <a class="pure-menu-selected"> Guest</a></a>
+        <a class="pure-menu-heading">Welcome <a class="pure-menu-selected"><asp:Literal ID="usr" runat="server" Text='' /></a></a>
         <ul class="pure-menu-list">
             <li class="pure-menu-item"><a href="SignIn.aspx" class="pure-menu-link">Sign In</a></li>
             <li class="pure-menu-item"><a href="SignUp.aspx" class="pure-menu-link">Sign Up</a></li>

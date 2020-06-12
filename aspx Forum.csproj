@@ -78,7 +78,6 @@
     <Content Include="Assets\css\StyleSheet1.min.css" />
     <Content Include="Assets\js\SignIn-Checker.js" />
     <Content Include="Assets\js\SignUp-Checker.js" />
-    <Content Include="True.aspx" />
     <Content Include="default.aspx" />
     <Content Include="reseed-er.sql" />
     <Content Include="SignIn.aspx" />
@@ -86,14 +85,7 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="App_Data\Helper.cs" />
-    <Compile Include="True.aspx.cs">
-      <DependentUpon>True.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="True.aspx.designer.cs">
-      <DependentUpon>True.aspx</DependentUpon>
-    </Compile>
+    <Compile Include="App_Data\csTOsql.cs" />
     <Compile Include="default.aspx.cs">
       <DependentUpon>default.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>

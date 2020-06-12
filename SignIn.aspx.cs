@@ -32,9 +32,8 @@ namespace aspxForum
                     }
                     else
                     {
-                        //Send UserData
                         Session["usr"] = username;
-                        Server.Transfer("True.aspx");
+                        Server.Transfer("default.aspx");
                     }
                 }
                 

@@ -11,8 +11,11 @@ namespace aspxForum.Assets
     {
         protected void Page_Load(object sender, EventArgs e)
         {
+            //bool admin = bool.Parse((String)(Session["isAdmin"]));
             string username = string.Empty;
             username = (String)(Session["usr"]);
+
+            //username setup
             if (String.IsNullOrEmpty(username))
             {
                 usr.Text = "Guest";
@@ -22,6 +25,18 @@ namespace aspxForum.Assets
                 usr.Text = username;
             }
 
+
+            //Privliges setup
+            if (String.IsNullOrEmpty(username))
+            {
+                Reg.Visible = false;
+                nonReg.Visible = true;
+            }
+            else
+            {
+                Reg.Visible = true;
+                nonReg.Visible = false;
+            }
         }
     }
 }

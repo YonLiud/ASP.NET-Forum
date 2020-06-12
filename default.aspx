@@ -15,20 +15,33 @@
         <link rel="stylesheet" href="assets/css/marketing.css" />
 </head>
 <body>
-
+<!--Header-->
 <div class="header">
     <div class="home-menu pure-menu pure-menu-horizontal pure-menu-fixed">
         <a class="pure-menu-heading">Yon Liud's Website</a>
-        <a class="pure-menu-heading">Welcome <a class="pure-menu-selected"><asp:Literal ID="usr" runat="server" Text='' /></a></a>
+        <a class="pure-menu-heading">Welcome <a class="pure-menu-selected"><asp:Literal ID="usr" runat="server" Text='ERR LOADING USER' /></a></a>
         <ul class="pure-menu-list">
             <li class="pure-menu-item"><a href="SignIn.aspx" class="pure-menu-link">Sign In</a></li>
             <li class="pure-menu-item"><a href="SignUp.aspx" class="pure-menu-link">Sign Up</a></li>
         </ul>
     </div>
 </div>
-<div class="splash-container">
+
+
+<!-- Body - False -->
+<div runat="server" id="nonReg" class="splash-container">
     <div class="splash">
         <h1 class="splash-head">Welcome</h1>
+        <p class="splash-subhead">
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+        </p>
+    </div>
+</div>
+
+
+<div ID="Reg" class="splash-container" runat="server" >
+    <div class="splash">
+        <h1 class="splash-head">Thank You for signing in</h1>
         <p class="splash-subhead">
             Lorem ipsum dolor sit amet, consectetur adipisicing elit.
         </p>

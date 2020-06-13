@@ -79,6 +79,7 @@
     <Content Include="Assets\js\edituser-Checker.js" />
     <Content Include="Assets\js\SignIn-Checker.js" />
     <Content Include="Assets\js\SignUp-Checker.js" />
+    <Content Include="Assets\aspx\Sign-outer.aspx" />
     <Content Include="useredit.aspx" />
     <Content Include="default.aspx" />
     <Content Include="reseed-er.sql" />
@@ -88,6 +89,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App_Data\csTOsql.cs" />
+    <Compile Include="Assets\aspx\Sign-outer.aspx.cs">
+      <DependentUpon>Sign-outer.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
     <Compile Include="useredit.aspx.cs">
       <DependentUpon>useredit.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>

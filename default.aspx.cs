@@ -11,7 +11,9 @@ namespace aspxForum.Assets
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            bool admin = (bool)(Session["isAdmin"]);
+            bool admin = false;
+            Session["isAdmin"] = admin;
+            admin = (bool)(Session["isAdmin"]);
             string username = string.Empty;
             username = (String)(Session["usr"]);
 
@@ -37,6 +39,8 @@ namespace aspxForum.Assets
                 Reg.Visible = true;
                 nonReg.Visible = false;
             }
+
+
         }
     }
 }

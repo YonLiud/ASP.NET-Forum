@@ -47,7 +47,7 @@
     <input type="submit" class="button dark outline" value="Submit" name="Submitbtnp" id="Submitbtnp" />
 </form>
 </fieldset>
-    <script src="Assets/js/JavaScript.js"></script>
+    <script src="Assets/js/edituser-Checker.js"></script>
 <script src="https://cdn.metroui.org.ua/v4/js/metro.min.js"></script>
 </body>
 </html>

@@ -81,6 +81,7 @@
     <Content Include="Assets\js\SignIn-Checker.js" />
     <Content Include="Assets\js\SignUp-Checker.js" />
     <Content Include="Assets\aspx\Sign-outer.aspx" />
+    <Content Include="Tos.aspx" />
     <Content Include="useredit.aspx" />
     <Content Include="default.aspx" />
     <Content Include="reseed-er.sql" />
@@ -100,6 +101,13 @@
     <Compile Include="Assets\aspx\Sign-outer.aspx.cs">
       <DependentUpon>Sign-outer.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Tos.aspx.cs">
+      <DependentUpon>Tos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Tos.aspx.designer.cs">
+      <DependentUpon>Tos.aspx</DependentUpon>
     </Compile>
     <Compile Include="useredit.aspx.cs">
       <DependentUpon>useredit.aspx</DependentUpon>

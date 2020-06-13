@@ -49,7 +49,7 @@
         Amount Of Admins:
     </div>
     <div class="card-content p-2">
-        <asp:Literal ID="numberofusers" runat="server" Text='ERR LOADING ADMIN NUMBER' />
+        <asp:Literal ID="admnNum" runat="server" Text='ERR LOADING ADMIN NUMBER' />
     </div>
 <%--    <div class="card-footer">
         Card Footer

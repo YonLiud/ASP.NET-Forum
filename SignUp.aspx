@@ -14,12 +14,12 @@
             const PassV = document.getElementById('passwordValid');
             PassV.onpaste = function (e) {
                 e.preventDefault();
-                document.getElementById("jserrmsg").innerHTML = "אסור להדביר סיסמא אחרת";
+                document.getElementById("jserrmsg").innerHTML = "Pasting a password is not allowed!";
             }
             const Pass = document.getElementById('passwordInput');
             Pass.onpaste = function (e) {
                 e.preventDefault();
-                document.getElementById("jserrmsg").innerHTML = "אסור להדביק סיסמא אחרת!";
+                document.getElementById("jserrmsg").innerHTML = "Pasting a password is not allowed!";
             }
         }
     </script>
@@ -38,7 +38,7 @@
         <input type="password" name="passwordInput" id="passwordInput" class="fadeIn third" placeholder="Password" />
         <input type="password" id="passwordValid" class="fadeIn third" placeholder="Verify Password" />
         <p class="fadeIn fourth">By Registering You Agree To Our Terms Of Use</p>
-        <input type="button"  class="fadeIn fourth" value="Terms Of Use" onclick="window.open('https://www.google.com/', '_blank');" />
+        <input type="button"  class="fadeIn fourth" value="Terms Of Use" onclick="window.open('tos.aspx', '_self');" />
         <input type="submit" class="fadeIn fourth" value="Register" id="submitButton" name="Submitbtn" />
     </form>
     <div id="formFooter">

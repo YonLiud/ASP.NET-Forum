@@ -17,7 +17,7 @@
             <img  style="width: 75px;" class="p-2 border bd-dark border-radius" src="Assets/icon.png" />
     </a>
     <ul class="app-bar-menu">
-        <li><a href="default.aspx">Home Site</a></li>
+        <li><a href="default.aspx">Go Back</a></li>
         <li class="board no-hover">
             <a><asp:Literal ID="usr" runat="server" Text='ERR LOADING ACC' /></a>
         </li>

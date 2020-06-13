@@ -67,6 +67,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="adminPanel.aspx" />
     <Content Include="App_Data\DB.mdf" />
     <Content Include="App_Data\DB_log.ldf">
       <DependentUpon>DB.mdf</DependentUpon>
@@ -88,6 +89,13 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="adminPanel.aspx.cs">
+      <DependentUpon>adminPanel.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="adminPanel.aspx.designer.cs">
+      <DependentUpon>adminPanel.aspx</DependentUpon>
+    </Compile>
     <Compile Include="App_Data\csTOsql.cs" />
     <Compile Include="Assets\aspx\Sign-outer.aspx.cs">
       <DependentUpon>Sign-outer.aspx</DependentUpon>

@@ -18,7 +18,7 @@
             <img  style="width: 75px;" class="p-2 border bd-dark border-radius" src="Assets/icon.png" />
     </a>
     <ul class="app-bar-menu">
-        <%--<li><a href="https://altab.dev/">Home Site</a></li>--%>
+        <li><a href="https://altab.dev/">alTab Website</a></li>
         <li><a href="#">Blog</a></li>
         <li><a href="#">Contacts</a></li>
         <li>
@@ -36,7 +36,7 @@
                 <li><a href="useredit.aspx">Edit Account</a></li>
                 <li><a href="Assets/aspx/Sign-outer.aspx">Sign Out</a></li>
                 <li class="divider bg-lightGray"></li>
-                <li runat="server" id="adminq"><a href="#">Admin Control Panel</a></li>
+                <li runat="server" id="adminq"><a href="adminPanel.aspx">Admin Control Panel</a></li>
             </ul>
 
         </li>
@@ -70,10 +70,12 @@ Raquavemoe loerym, dehece dalivahiby quobi, popi lodefelali tes remiv, doeli. La
 Rof, macalir toely nihi coeryd baleladil lybal fofatal balir tulubi delyh, pe mi. Sefafe lyd roejenumi diquilede tihe podane by, fabo dalema ropin lo. Boelacamem dylaju lefibi, bibibalu bi mivuma ler leda, hetim melal pas. Queledol filavym vam deme le lec pad, va hefuhehys hor, ti vuli ru fi. Cosoeb diryl meci dy, bevab mequabuvoe, bym bahine mume marafofi.<br />
 <br />
 Ve demabe mahep bebemovil tededide fi bihu dodej, mecib quy timoemoe byl. Nes surehota monoe ciholoel fuda bymem dusipes pafym doef jem me quelipipa fode das. Muf, bi hop lemoebo nabeh pimoeh doba quyfi ladibej, boelaf mob de moef. Leb miba queb pal, biho doj lo, filidu nuvit moepyfomon dimep. Be me he job ven lecejim bifimy mu mil, mybahela bafe.</p>
-    <h2>Thank you for signing in</h2>
 
 
-<div style="background-color:17BEBB">
+<h2>Thank you for using alTab Open Market, The Open Market For every consumer</h2>
+
+
+<div>
     <br /><br />
     <h1 class="text-center">alTab Developments</h1>
     <h3 class="text-center">The Open Market <br />For every consumer</h3>

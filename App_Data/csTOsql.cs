@@ -57,19 +57,20 @@ public class csTOsql
         conn.Close();
         return variable;
     }
-    //public static bool BoolQuery(string fileName, string sql)
-    //{
-
-    //    SqlConnection conn = ConnectToDb(fileName);
-    //    conn.Open();
-    //    SqlCommand com = new SqlCommand(sql,conn);
-    //    SqlDataReader data = com.ExecuteReader();   
-
-    //    bool found =Convert.ToBoolean(data.Read());
-    //    conn.Close();
-    //    return found;
-
-    //}
+    public static int IntQuery(string fileName, string sql)
+    {
+        SqlConnection conn = ConnectToDb(fileName);
+        conn.Open();
+        int variable = 0;
+        SqlCommand com = new SqlCommand(sql, conn);
+        SqlDataReader reader = com.ExecuteReader();
+        if (reader.Read())
+        {
+            variable = (reader.GetInt32(0));
+        }
+        conn.Close();
+        return variable;
+    }
 
     public static DataTable ExecuteDataTable(string fileName, string sql)
     {

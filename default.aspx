@@ -8,8 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <meta name="description" content="An open market and forum for everyone! for free!" />
     <title>alTab Developments Market</title>    
-    <link rel="stylesheet" href="https://cdn.metroui.org.ua/v4/css/metro-all.min.css">
-
+    <link href="Assets/css/metro-all.min.css" rel="stylesheet" />
     <link href="Assets/css/designGeneral.css" rel="stylesheet" />
 </head>
 <body>
@@ -19,7 +18,7 @@
             <img  style="width: 75px;" class="p-2 border bd-dark border-radius" src="Assets/icon.png" />
     </a>
     <ul class="app-bar-menu">
-        <li><a href="https://altab.dev/">Home Site</a></li>
+        <%--<li><a href="https://altab.dev/">Home Site</a></li>--%>
         <li><a href="#">Blog</a></li>
         <li><a href="#">Contacts</a></li>
         <li>
@@ -34,7 +33,7 @@
 
             <%-- REGISTERED MENU --%>
             <ul class="d-menu" data-role="dropdown" id="RegMenu" runat="server">
-                <li><a href="#">Edit Account</a></li>
+                <li><a href="useredit.aspx">Edit Account</a></li>
                 <li><a href="#">Sign Out</a></li>
                 <li class="divider bg-lightGray"></li>
                 <li runat="server" id="adminq"><a href="#">Admin Control Panel</a></li>

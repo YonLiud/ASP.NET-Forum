@@ -11,8 +11,8 @@
     <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>School_Project</RootNamespace>
-    <AssemblyName>School Project</AssemblyName>
+    <RootNamespace>aspxForum</RootNamespace>
+    <AssemblyName>aspx Forum</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <UseIISExpress>true</UseIISExpress>
     <Use64BitIISExpress />
@@ -72,9 +72,14 @@
       <DependentUpon>DB.mdf</DependentUpon>
     </Content>
     <Content Include="Assets\css\designGeneral.css" />
+    <Content Include="Assets\css\metro-all.min.css" />
+    <Content Include="Assets\css\StyleSheet1.css" />
+    <Content Include="Assets\css\StyleSheet1.min.css" />
     <Content Include="Assets\icon.png" />
+    <Content Include="Assets\js\edituser-Checker.js" />
     <Content Include="Assets\js\SignIn-Checker.js" />
     <Content Include="Assets\js\SignUp-Checker.js" />
+    <Content Include="useredit.aspx" />
     <Content Include="default.aspx" />
     <Content Include="reseed-er.sql" />
     <Content Include="SignIn.aspx" />
@@ -83,6 +88,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App_Data\csTOsql.cs" />
+    <Compile Include="useredit.aspx.cs">
+      <DependentUpon>useredit.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="useredit.aspx.designer.cs">
+      <DependentUpon>useredit.aspx</DependentUpon>
+    </Compile>
     <Compile Include="default.aspx.cs">
       <DependentUpon>default.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>

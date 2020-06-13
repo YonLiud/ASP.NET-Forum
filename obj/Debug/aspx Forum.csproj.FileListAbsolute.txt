@@ -174,9 +174,6 @@ C:\Projects\aspx Forum\obj\Debug\aspx Forum.csproj.CoreCompileInputs.cache
 C:\Projects\aspx Forum\obj\Debug\aspx Forum.csproj.CopyComplete
 C:\Projects\aspx Forum\obj\Debug\School Project.dll
 C:\Projects\aspx Forum\obj\Debug\School Project.pdb
-C:\Projects\ASP.NET-Forum\bin\School Project.dll.config
-C:\Projects\ASP.NET-Forum\bin\School Project.dll
-C:\Projects\ASP.NET-Forum\bin\School Project.pdb
 C:\Projects\ASP.NET-Forum\bin\roslyn\csc.exe
 C:\Projects\ASP.NET-Forum\bin\roslyn\csc.exe.config
 C:\Projects\ASP.NET-Forum\bin\roslyn\csc.rsp
@@ -231,5 +228,8 @@ C:\Projects\ASP.NET-Forum\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform
 C:\Projects\ASP.NET-Forum\obj\Debug\aspx Forum.csprojAssemblyReference.cache
 C:\Projects\ASP.NET-Forum\obj\Debug\aspx Forum.csproj.CoreCompileInputs.cache
 C:\Projects\ASP.NET-Forum\obj\Debug\aspx Forum.csproj.CopyComplete
-C:\Projects\ASP.NET-Forum\obj\Debug\School Project.dll
-C:\Projects\ASP.NET-Forum\obj\Debug\School Project.pdb
+C:\Projects\ASP.NET-Forum\bin\aspx Forum.dll.config
+C:\Projects\ASP.NET-Forum\bin\aspx Forum.dll
+C:\Projects\ASP.NET-Forum\bin\aspx Forum.pdb
+C:\Projects\ASP.NET-Forum\obj\Debug\aspx Forum.dll
+C:\Projects\ASP.NET-Forum\obj\Debug\aspx Forum.pdb

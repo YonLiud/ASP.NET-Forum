@@ -1,0 +1,46 @@
+﻿body {
+
+}
+#icon {
+    width: 60%
+}
+.Navbar {
+    color: black;
+}
+container {
+    width: 100%;
+}
+
+@media (min-width: 576px) {
+    .container {
+        max-width: 540px;
+    }
+}
+
+@media (min-width: 768px) {
+    .container {
+        max-width: 720px;
+    }
+}
+
+@media (min-width: 992px) {
+    .container {
+        max-width: 960px;
+    }
+}
+
+@media (min-width: 1200px) {
+    .container {
+        max-width: 1140px;
+    }
+}
+
+@media (min-width: 1452px) {
+    .container {
+        max-width: 1360px;
+    }
+}
+.Header {
+    background-color: rgb(29, 29, 29);
+    color: white;
+}

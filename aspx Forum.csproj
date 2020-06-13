@@ -71,11 +71,8 @@
     <Content Include="App_Data\DB_log.ldf">
       <DependentUpon>DB.mdf</DependentUpon>
     </Content>
-    <Content Include="Assets\css\marketing-old-ie.css" />
-    <Content Include="Assets\css\marketing.css" />
+    <Content Include="Assets\css\designGeneral.css" />
     <Content Include="Assets\icon.png" />
-    <Content Include="Assets\css\StyleSheet1.css" />
-    <Content Include="Assets\css\StyleSheet1.min.css" />
     <Content Include="Assets\js\SignIn-Checker.js" />
     <Content Include="Assets\js\SignUp-Checker.js" />
     <Content Include="default.aspx" />

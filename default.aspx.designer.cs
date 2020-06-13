@@ -24,6 +24,33 @@ namespace aspxForum.Assets
         protected global::System.Web.UI.WebControls.Literal usr;
 
         /// <summary>
+        /// nonRegMenu control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.HtmlControls.HtmlGenericControl nonRegMenu;
+
+        /// <summary>
+        /// RegMenu control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.HtmlControls.HtmlGenericControl RegMenu;
+
+        /// <summary>
+        /// adminq control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.HtmlControls.HtmlGenericControl adminq;
+
+        /// <summary>
         /// nonReg control.
         /// </summary>
         /// <remarks>

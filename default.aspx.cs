@@ -11,9 +11,20 @@ namespace aspxForum.Assets
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            bool admin = false;
-            Session["isAdmin"] = admin;
-            admin = (bool)(Session["isAdmin"]);
+            //if (Request.Form["SubmitBtn"] != null)
+            //{
+            //    Session.Clear();
+            //}
+            bool admin;
+            Session["TempPriv"] = false;
+            if((Session["isAdmin"]) is null)
+            {
+                admin = (bool)(Session["TempPriv"]);
+            }
+            else
+            {
+                admin = (bool)(Session["isAdmin"]);
+            }
             string username = string.Empty;
             username = (String)(Session["usr"]);
 
@@ -31,15 +42,26 @@ namespace aspxForum.Assets
             //Privliges setup
             if (String.IsNullOrEmpty(username))
             {
+                nonRegMenu.Visible = true;
+                RegMenu.Visible = false;
                 Reg.Visible = false;
                 nonReg.Visible = true;
             }
             else
             {
+                nonRegMenu.Visible = false;
+                RegMenu.Visible = true;
                 Reg.Visible = true;
                 nonReg.Visible = false;
             }
-
+            if (admin)
+            {
+                adminq.Visible = true;
+            }
+            else
+            {
+                adminq.Visible = false;
+            }
 
         }
     }

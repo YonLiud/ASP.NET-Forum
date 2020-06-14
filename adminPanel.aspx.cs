@@ -31,13 +31,14 @@ namespace aspxForum
             string fileName = "DB.mdf";
             string sqlSelectUsers = ("SELECT COUNT(username) FROM userDB");
             int users = csTOsql.IntQuery(fileName, sqlSelectUsers);
-            string usersNum = ("" + users +1);
+                users = users++;
+            string usersNum = ("" + users);
             usrNum.Text = usersNum;
 
             // Admin Counter
             string sqlSelectAdmins = ("SELECT COUNT(username) FROM userDB WHERE admin = 'true'");
             int admins = csTOsql.IntQuery(fileName, sqlSelectAdmins);
-            string adminNum = ("" + admins +1);
+            string adminNum = ("" + admins);
             admnNum.Text = adminNum;
 
 

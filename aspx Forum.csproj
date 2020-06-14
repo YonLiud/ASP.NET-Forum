@@ -81,6 +81,7 @@
     <Content Include="Assets\js\SignIn-Checker.js" />
     <Content Include="Assets\js\SignUp-Checker.js" />
     <Content Include="Assets\aspx\Sign-outer.aspx" />
+    <Content Include="ResetPassword.aspx" />
     <Content Include="Tos.aspx" />
     <Content Include="useredit.aspx" />
     <Content Include="default.aspx" />
@@ -101,6 +102,13 @@
     <Compile Include="Assets\aspx\Sign-outer.aspx.cs">
       <DependentUpon>Sign-outer.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ResetPassword.aspx.cs">
+      <DependentUpon>ResetPassword.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ResetPassword.aspx.designer.cs">
+      <DependentUpon>ResetPassword.aspx</DependentUpon>
     </Compile>
     <Compile Include="Tos.aspx.cs">
       <DependentUpon>Tos.aspx</DependentUpon>

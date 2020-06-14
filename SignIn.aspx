@@ -25,7 +25,7 @@
     <div id="formFooter">
       <a class="underlineHover" href="SignUp.aspx">Don't Have an Account?</a>
         <br />
-      <a class="underlineHover" href="https://google.com">Forgot Password?</a>
+      <a class="underlineHover" href="ResetPassword.aspx">Forgot Password?</a>
     </div>
         </form>
         <script src="Assets/js/SignIn-Checker.js"></script>
